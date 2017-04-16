@@ -21,6 +21,7 @@
 	<preference name="phonegap-version" value="cli-6.1.0" />
 	<plugin name="cordova-plugin-whitelist" source="npm" />
 	<access origin="*" />
+	<!-- plugin for geolocation -->
 	<plugin name="cordova-plugin-geolocation" source="npm" />
 	<!-- start here -->
 	<icon src="audi.png" />
